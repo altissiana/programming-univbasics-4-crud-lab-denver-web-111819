@@ -3,7 +3,7 @@ my_array = Array.new
 end
 
 def create_an_array
-my_array = []
+my_array = [um, dois, tres, quatro]
 end
 
 def add_element_to_end_of_array(array, element)
